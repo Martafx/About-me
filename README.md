@@ -4,12 +4,12 @@ My hard skills:
 - Test design
 - Requirements engineering
 - Identifying defects and documenting them in the bug-tracking tools (Jira).
-● API testing (REST,SOAP)
-● Database queries (PostgreSQL).
-● Working with the developer console (Devtools)
-● Mobile testing with the help of sniffers (Charles)
-● Layout testing (HTML,CSS)
-● Software development methodologies (Waterfall, Agile: Scrum, Kanban)
+- API testing (REST,SOAP)
+- Database queries (PostgreSQL).
+- Working with the developer console (Devtools)
+- Mobile testing with the help of sniffers (Charles)
+- Layout testing (HTML,CSS)
+- Software development methodologies (Waterfall, Agile: Scrum, Kanban)
 <!---
 Martafx/Martafx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
