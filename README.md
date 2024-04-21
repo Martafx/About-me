@@ -1,6 +1,6 @@
 Hi! My name is Marta and I'm QA Engineer with deep knowledge of testing theory and strong desire to grow up.
 My hard skills:
-- Preparation of test documantation
+- Preparation of test documentation
 - Test design
 - Requirements engineering
 - Identifying defects and documenting them in the bug-tracking tools (Jira).
